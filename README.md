@@ -1,4 +1,5 @@
-![image](https://github.com/Fooh23/RapidMC/assets/89369870/847135d4-11c1-425b-b455-1cbb943944d3)
+![image](https://github.com/Fooh23/RapidMC/assets/89369870/502f1038-7235-4952-84ba-0c9c77f4125d)
+
 
 # RapidMC - 1.20.4
 ## Features
